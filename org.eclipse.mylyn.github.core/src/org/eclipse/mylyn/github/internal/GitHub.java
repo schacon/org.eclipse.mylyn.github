@@ -1,5 +1,7 @@
 package org.eclipse.mylyn.github.internal;
 
+// hello
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
